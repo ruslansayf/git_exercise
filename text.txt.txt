@@ -1,1 +1,2 @@
-This is for git exercise
+This is for git exercise 
+this is my second change in my code
